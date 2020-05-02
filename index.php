@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>3-D Hover Effect</title>
 </head>
 <body>
 <style>
@@ -78,7 +78,7 @@
 
 <div class="container">
     <div class="card">
-        <h1><span class="write">Priscilla is the best</span></h1>
+        <h1><span class="write">3-D Hover Effect for your face!</span></h1>
     </div>
 </div>
     
